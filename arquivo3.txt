@@ -1,1 +1,1 @@
-Ola vamos aprender a usar o git
+olá, vamos aprender a usar git
